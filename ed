@@ -1,0 +1,23 @@
+[33mcommit 1ec5a5ac98388e8bf2f87f2c9ffaf78830c936d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest[m[33m)[m
+Author: Artem Klimin <art.klimin@mail.ru>
+Date:   Tue Jul 30 08:22:42 2024 +0700
+
+    first_test_branch
+
+[33mcommit d304843fc5a2334b2ff862b0d414df35bc70fd4b[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Artem Klimin <art.klimin@mail.ru>
+Date:   Tue Jul 30 08:20:15 2024 +0700
+
+    third commit
+
+[33mcommit ef76a8eb1ce5ff3906a05bc2414a1b5824df83cf[m
+Author: Artem Klimin <art.klimin@mail.ru>
+Date:   Tue Jul 30 08:19:35 2024 +0700
+
+    second_commit
+
+[33mcommit bd69465c79482a141b9b6ca0caed0d031e83c537[m
+Author: Artem Klimin <art.klimin@mail.ru>
+Date:   Tue Jul 30 08:16:36 2024 +0700
+
+    first_commit
